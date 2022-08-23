@@ -88,6 +88,13 @@ a:hover {
   #check:checked ~ ul {
     left: 0;
   }
+  label.logo {
+    color: rgb(32, 32, 32);
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 50px;
+    font-weight: bold;
+  }
 }
 
 /*content*/
